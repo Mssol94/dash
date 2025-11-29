@@ -1,0 +1,7 @@
+<project name="ha_dashboard">
+	<targets>
+		<target name="target1">
+			<display width="480" height="272" />
+		</target>
+	</targets>
+</project>
